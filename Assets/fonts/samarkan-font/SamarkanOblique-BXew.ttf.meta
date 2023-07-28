@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 664548061f2f092448af87ea4e367b46
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Samarkan
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 223e550c6d32afa45ac5798eec781f4e, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
