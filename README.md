@@ -16,6 +16,9 @@
 <div>-Learnt how physics work in games</div>
 <div>-Learnt about game design and UI</div>
 
+<h1># How to play?</h1>
+<div>-Download the "Game file" folder and enjoy the game </div>
+
 <h1># Special thanks to </h1>
 <div>-Priyanshu Govind Rao (Mentor bhaiya) for guiding our team </div>
 <div>-All who made this event possible</div>
