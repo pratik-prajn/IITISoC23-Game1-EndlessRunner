@@ -11,4 +11,16 @@
 <div>-Pratik Prajn</div>
 <div>-Prince Kumar Gupta</div>
 
+<h1># What I learned</h1>
+<div>-Learnt C# while developing the game</div>
+<div>-Learnt how physics work in games</div>
+<div>-Learnt about game design and UI</div>
+
+<h1># Special thanks to </h1>
+<div>-Priyanshu Govind Rao (Mentor bhaiya) for guiding our team </div>
+<div>-All who made this event possible</div>
+
+
+
+
 
