@@ -18,6 +18,7 @@
 
 <h1># How to play?</h1>
 <div>-Download the "Game file" folder and enjoy the game </div>
+<div>https://drive.google.com/drive/folders/15CdMUn8GwUsvEi6mPGAxbUpY0HwHeDR2?usp=drive_link</div>
 
 <h1># Special thanks to </h1>
 <div>-Priyanshu Govind Rao (Mentor bhaiya) for guiding our team </div>
