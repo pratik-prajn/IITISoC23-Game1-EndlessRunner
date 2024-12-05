@@ -26,9 +26,9 @@
 
 <h1># Screenshots</h1>
 <div style="display: flex; justify-content: center; margin-bottom: 20px;">
-    <img src="photo1.png" alt="Screenshot 1" style="width: 80%; max-width: 500px; border: 1px solid #ccc; border-radius: 5px;">
+    <img src="photo1.png" alt="Screenshot 1" style="width: 100%; max-width: 500px; border: 1px solid #ccc; border-radius: 5px;">
 </div>
 <div style="display: flex; justify-content: space-between;">
     <img src="p2.png" alt="Screenshot 2" style="width: 48%; border: 1px solid #ccc; border-radius: 5px;">
-    <img src="p3.png" alt="Screenshot 3" style="width: 48%; border: 1px solid #ccc; border-radius: 5px;">
+    <img src="p3.png" alt="Screenshot 3" style="width: 48%; border: 1px solid #ccc; border-radius: 5px;height=500px">
 </div>
